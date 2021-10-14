@@ -1,0 +1,4 @@
+> It's better to use asynchronous code(callback functions) while writing the code.
+
+> The first function of the code can be made synchronous without considering the fact that it would block the execution of 
+the code written after it as this point is not applicable for the first function of the code.
